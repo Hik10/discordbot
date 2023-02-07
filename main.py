@@ -63,4 +63,4 @@ async def clear(ctx,amount=1):
     await ctx.channel.purge(limit=amount+1)
 
 # EXECUTES THE BOT WITH THE SPECIFIED TOKEN. TOKEN HAS BEEN REMOVED AND USED JUST AS AN EXAMPLE.
-bot.run("ODc5NDA1NTMwNzA2MjMxMzA3.GhCIzZ.yvy5IcWt8X9C999Xo9CWfsmLvbyyDFPQ8cS9so")
+bot.run("ODc5NDA1NTMwNzA2MjMxMzA3.GCLrbo.2Qh637V2U7lHXke38jKuTZjwESkDnuXbrplKTg")
